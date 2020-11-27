@@ -1,1 +1,3 @@
-Mangakas
+Mangaka es la palabra japonesa designada para referirse al creador de una historieta o cómic. Fuera de Japón, principalmente en Occidente, la palabra se usa para referirse a autores de manga. La palabra está compuesta por el prefijo manga que quiere decir "cómic" y el sufijo -ka que es un agregado y quiere decir "creador de", dándole a la palabra un grado honorífico que indica maestría. El mangaka de un título, solamente lo plasma en manga.
+
+Algunos artistas estudian durante unos años en una escuela de arte, o aprenden de otros mangakas, siendo sus asistentes, antes de iniciar su carrera como profesional. Takeuchi ganó un concurso auspiciado por Kōdansha, y Osamu Tezuka intrabajo sin haber sido asistente y también Masashi Kishimoto.
