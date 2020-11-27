@@ -1,3 +1,1 @@
-<h1>Estudios</h1>
-
-Un estudio de animación es un edificio con un numero determinado de trabajadores que juntos producen un anime en concreto
+Estudios
