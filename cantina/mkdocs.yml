@@ -1,5 +1,11 @@
-site_name: Mkdocs 2DAW Cantina
+site_name: Mkdocs 2DAW
 nav:
-    - Home: index.md
+    - Inici: 'index.md'
+
+    - 'Manga': 'manga.md'
+    - 'Anime': 'anime.md'
+    - 'Estudios': 'estudios.md'
+    - 'Directores': 'directores.md'
+    - 'Mangakas': 'mangakas.md'
 
 theme: readthedocs
