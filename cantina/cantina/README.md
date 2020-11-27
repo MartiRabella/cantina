@@ -1,2 +1,0 @@
-# cantina
-Practica amb Mkdocs
